@@ -935,10 +935,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 862ca42c-d935-4a24-933d-516432cc6c51
+  cloudProjectId: 186e42c0-2ad5-488b-8b58-d21a0e4ac9c4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: solitaire_demo
+  projectName: solitaire_demo 2026-10-07_14-12-59
   organizationId: unity_94e178c56fa32558d6ae
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
